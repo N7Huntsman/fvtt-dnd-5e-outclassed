@@ -17,9 +17,9 @@
       "name": "William Rotor"
     }
   ],
-  "url": "https://github.com/n7huntsman/fvtt-dnd-5e-outclassed",
-  "manifest": "https://raw.githubusercontent.com/n7huntsman/fvtt-dnd-5e-outclassed/main/module.json",
-  "download": "https://codeload.github.com/n7huntsman/fvtt-dnd-5e-outclassed/zip/main",
+  "url": "https://github.com/rannieryjesuino/fvtt-dnd-5e-outclassed",
+  "manifest": "https://raw.githubusercontent.com/rannieryjesuino/fvtt-dnd-5e-outclassed/main/module.json",
+  "download": "https://codeload.github.com/rannieryjesuino/fvtt-dnd-5e-outclassed/zip/main",
 
   "packs": [
     {
